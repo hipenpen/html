@@ -1,0 +1,44 @@
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>
+ご迷惑をおかけしています！
+</title>
+<style type="text/css"><!--
+.serif { font-family: times,serif; font-size: medium; }
+.sans { font-family: osaka,MS Pゴシック,arial,helvetica,sans-serif; font-size: medium; }
+.small { font-family: osaka,MS Pゴシック,arial,helvetica,sans-serif; font-size: small; }
+.h1 { font-family: osaka,MS Pゴシック,arial,helvetica,sans-serif; color: #CC6600; font-size: medium; }
+.h3color { font-family: osaka,MS Pゴシック,arial,helvetica,sans-serif; color: #CC6600; font-size: small; }
+.tiny { font-family: osaka,MS Pゴシック,arial,helvetica,sans-serif; font-size: x-small; }
+--></style>
+</head>
+<body alink="#FF9933" bgcolor="#FFFFFF" link="#003399" text="#000000" vlink="#996633">
+<!--
+        To discuss automated access to Amazon data please contact api-services-support@amazon.com.
+        For information about migrating to our APIs refer to our Marketplace APIs at https://developer.amazonservices.jp/ref=rm_5_sv, or our Product Advertising API at https://affiliate.amazon.co.jp/gp/advertising/api/detail/main.html/ref=rm_5_ac for advertising use cases.
+-->
+<center>
+<center>
+<a href="https://www.amazon.co.jp/ref=cs_503_logo/">
+<img alt="Amazon.co.jp" border="0" height="60" src="https://images-fe.ssl-images-amazon.com/images/G/09/other/logo-jp.jpg" width="190"/></a>
+<p>
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="3" cellspacing="2" width="90%">
+<tr>
+<td>
+<p><b class="h1">ご迷惑をおかけしています！</b></p>
+<p class="small">
+お客様のリクエストの処理中にエラーが発生しました。できるだけ早くこの問題を解決いたします。
+</p>
+<p class="small">
+注文手続きの途中でこのエラーが表示された場合は、注文は確定されていませんので、ご注意ください。
+</p>
+<p class="small">
+ご不便をおかけして申し訳ございません。
+</p>
+<p class="small"><a href="https://www.amazon.co.jp/ref=cs_503_link/"><img align="absmiddle" border="0" height="20" hspace="6" src="https://images-fe.ssl-images-amazon.com/images/G/09/buttons/continue-shopping.gif" vspace="2" width="125"/></a> Amazon.co.jpホームへ</p>
+</td>
+</tr>
+</table>
+</p></center></center></body>
+</html>
